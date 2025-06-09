@@ -6,13 +6,13 @@ box-sizing: border-box;
 
 body {
 font-family: 'Segoe UI', sans-serif;
-background-color: #fffdf5;
+background-color: #f8ec7f;
 color: #333;
 }
 
 header {
-background-color: #2e8b57;
-color: white;
+background-color: #39dcf1;
+color: rgb(11, 12, 11);
 text-align: center;
 padding: 30px 20px;
 }
@@ -29,11 +29,11 @@ padding: 40px 20px;
 }
 
 .etapa {
-background-color: #f7f7f7;
-border-left: 5px solid #2e8b57;
+background-color: #e2a4d3;
+border-left: 5px solid #f058b1;
 padding: 20px;
 margin-bottom: 25px;
-box-shadow: 0 0 8px rgba(0,0,0,0.1);
+box-shadow: 0 0 8px rgba(245, 239, 239, 0.1);
 transition: transform 0.3s;
 }
 
@@ -42,7 +42,7 @@ transform: scale(1.02);
 }
 
 .etapa h2 {
-color: #2e8b57;
+color: #0d1410;
 margin-bottom: 10px;
 }
 
